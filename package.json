@@ -9,7 +9,8 @@
   },
   "author": "Kate Wellington <sharedferret@gmail.com>",
   "main": "sparkle.js",
-  "directories": {
+    "scripts": {"start": "node sparkle.js"}
+    "directories": {
     "api": "api",
     "commands": "commands",
     "SQL Tables": "SQL Tables"
