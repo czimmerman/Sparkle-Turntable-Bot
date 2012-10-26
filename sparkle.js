@@ -53,7 +53,7 @@ global.moderators = new Array();
 //Used for bonus awesoming
 global.bonuspoints = new Array();      //An array of DJs wanting the bot to bonus
 global.bonusvote = false;              //A flag denoting if the bot has bonus'd a song
-global.bonusvotepoints = 0;            //The number of awesomes needed for the bot to awesome
+global.bonusvotepoints = 1;            //The number of awesomes needed for the bot to awesome
 
 //Current song info
 global.currentsong = {
