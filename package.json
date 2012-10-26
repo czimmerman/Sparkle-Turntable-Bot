@@ -9,7 +9,7 @@
   },
   "author": "Kate Wellington <sharedferret@gmail.com>",
   "main": "sparkle.js",
-    "scripts": {"start": "node sparkle.js"}
+    "scripts": {"start": "node sparkle.js"},
     "directories": {
     "api": "api",
     "commands": "commands",
