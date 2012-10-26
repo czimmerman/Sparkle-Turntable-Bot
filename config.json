@@ -1,12 +1,12 @@
 {"botinfo":
-	{"auth":"auth+live+QZvOfOUbhuSHWKyERcypQOUb",
+	{"auth":"QZvOfOUbhuSHWKyERcypQOUb",
 	"userid":"503ae6e0eb35c153a300062c",
 	"botname":"Yurtle"},
 "roomid":"5083c903eb35c17c6400038b",
 "admin":"theturtle",
 "database":
 	{"usedb":true,
-	"dbname":"nodejs_mysql_treehouse", 
+	"dbname":"sparklebot", 
     "logchat":false,
 	"tablenames": 
 		{"song": "SONGLIST", 
