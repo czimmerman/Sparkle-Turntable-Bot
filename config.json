@@ -32,8 +32,8 @@
 	"welcomeusers":true,
     "welcomepm":true,
     "alwayspm":false,
-    "pmgreet": "Welcome to Costco {{name}}. I love you. http://www.youtube.com/watch?v=6R3BYCT5oWw",
-	"greeting":"Welcome to Costco {{name}}. I love you. http://www.youtube.com/watch?v=6R3BYCT5oWw ",
+    "pmgreet": "Welcome to Costco. I love you. http://www.youtube.com/watch?v=6R3BYCT5oWw",
+	"greeting":"Welcome to Costco. I love you. http://www.youtube.com/watch?v=6R3BYCT5oWw ",
 	"ownerresponse":"theturtle made me!",
 	"sing":true, 
 	"rules": 
