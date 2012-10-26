@@ -15,7 +15,7 @@
 		"banned": "BANNEDUSERS",
 		"holiday": "HOLIDAY_GREETINGS"},
 	"login":{
-		"user":"ttbotuser",
+		"user":"deploy",
 		"password":"lolwat123",
         "host": "localhost"}},
 "lastfm":
