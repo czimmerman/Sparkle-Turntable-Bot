@@ -43,7 +43,7 @@
 "consolelog":false,
 "bonusvote":"VOTE",
 "enforcement":
-	{"enforceroom":true,
+	{"enforceroom":false,
     "waitlist":false,
 	"songstoplay":2,
 	"stepuprules":
