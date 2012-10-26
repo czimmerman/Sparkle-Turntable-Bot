@@ -5,7 +5,7 @@
   "keywords": ["turntable.fm", "turntable", "stickybits"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sharedferret/Sparkle-Turntable-Bot.git"
+    "url": "git@github.com:czimmerman/Sparkle-Turntable-Bot.git"
   },
   "author": "Kate Wellington <sharedferret@gmail.com>",
   "main": "sparkle.js",
