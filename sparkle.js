@@ -703,17 +703,13 @@ global.handleCommand = function (name, userid, text, source) {
     }
     
     //Have the bot step up to DJ
-    if (text.toLowerCase() == (config.botinfo.botname + ', step up')) {
-        if (admincheck(userid)) {
+    if (text.toLowerCase() == ('yurtle step up')) {
             bot.addDj();
-        }
     }
     
     //Have the bot jump off the decks
-    if (text.toLowerCase() == (config.botinfo.botname + ', step down')) {
-        if (admincheck(userid)) {
+    if (text.toLowerCase() == ('yurtle step down')) {
             bot.remDj(config.botinfo.userid);
-        }
     }
     
     //Hug bot

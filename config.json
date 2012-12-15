@@ -1,8 +1,8 @@
 {"botinfo":
 	{"auth":"QZvOfOUbhuSHWKyERcypQOUb",
 	"userid":"503ae6e0eb35c153a300062c",
-	"botname":"Yurtle"},
-"roomid":"5083c903eb35c17c6400038b",
+	"botname":"yurtle"},
+"roomid":"4e1dd43514169c7bac01a893",
 "admin":"theturtle",
 "database":
 	{"usedb":true,
@@ -29,8 +29,8 @@
 	{"respond":true,
     "announcebonus":true,
 	"reportsongstats":true,
-	"welcomeusers":true,
-    "welcomepm":true,
+	"welcomeusers":false,
+    "welcomepm":false,
     "alwayspm":false,
     "pmgreet": "Welcome to Costco. I love you. http://www.youtube.com/watch?v=6R3BYCT5oWw",
 	"greeting":"Welcome to Costco. I love you. http://www.youtube.com/watch?v=6R3BYCT5oWw ",
