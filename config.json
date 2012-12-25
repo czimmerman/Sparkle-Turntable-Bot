@@ -28,7 +28,7 @@
 "responses":
 	{"respond":true,
     "announcebonus":true,
-	"reportsongstats":true,
+	"reportsongstats":false,
 	"welcomeusers":false,
     "welcomepm":false,
     "alwayspm":false,
@@ -40,7 +40,7 @@
 		{"description": "Play whatever, Enjoy yourself, Don't be a dick", 
 		"link": "http://theturtle.org"}
 	},
-"consolelog":false,
+"consolelog":true,
 "bonusvote":"VOTE",
 "enforcement":
 	{"enforceroom":false,
