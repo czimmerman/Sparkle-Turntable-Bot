@@ -41,7 +41,7 @@
 		"link": "http://theturtle.org"}
 	},
 "consolelog":true,
-"bonusvote":"VOTE",
+"bonusvote":"AUTO",
 "enforcement":
 	{"enforceroom":false,
     "waitlist":false,
